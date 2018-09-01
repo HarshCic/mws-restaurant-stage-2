@@ -1,0 +1,17 @@
+{
+  "name": "MWS-stage-2",
+  "short_name": "MWS-2",
+  "theme_color": "#0d5b91",
+  "background_color": "#fdfdfd",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "./index.html",
+  "icons": [
+  {
+    "src": "/icons/icon-1.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }
+]
+
+}
